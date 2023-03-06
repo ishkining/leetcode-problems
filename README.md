@@ -14,6 +14,10 @@ Arrays and strings, so far just Two Pointers
 
 Done w/ practice Two Pointers and now lecture about Sliding Show
 
-### 4 hour (06.03.2023 - 13:30 AM)
+### 4 hour (06.03.2023 - 13:30 PM)
 
 Done w/ Sliding widnwo technique and done w/ practice of prefis sum and sliding window
+
+### 5 hour (06.03.2023 - 14:37 PM)
+
+Done w/ last lecturesand quizes of this chapter and rn trying to solve bonus content
