@@ -21,3 +21,7 @@ Done w/ Sliding widnwo technique and done w/ practice of prefis sum and sliding 
 ### 5 hour (06.03.2023 - 14:37 PM)
 
 Done w/ last lecturesand quizes of this chapter and rn trying to solve bonus content
+
+### 6 hour (07.03.2023 - 23:58 PM)
+
+Done w/ almost all bonus tasks about Arrays and Strings, it was funny!
