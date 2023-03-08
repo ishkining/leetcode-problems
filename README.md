@@ -25,3 +25,7 @@ Done w/ last lecturesand quizes of this chapter and rn trying to solve bonus con
 ### 6 hour (07.03.2023 - 23:58 PM)
 
 Done w/ almost all bonus tasks about Arrays and Strings, it was funny!
+
+### 7 hour (08.03.2023 - 16:33 PM)
+
+Started new chapter and its hashing. So far I know all this stuff about theory, but it has some deep things.
