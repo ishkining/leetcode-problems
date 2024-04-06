@@ -29,3 +29,4 @@ Done w/ almost all bonus tasks about Arrays and Strings, it was funny!
 ### 7 hour (08.03.2023 - 16:33 PM)
 
 Started new chapter and its hashing. So far I know all this stuff about theory, but it has some deep things.
+test config
